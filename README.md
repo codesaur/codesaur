@@ -6,10 +6,10 @@ Mongolian Software Engineer • Creator of the **codesaur-php** Open Source Ecos
 ## 🧑‍💻 My Career Journey
 
 ### 🏫 2013 Building Systems at GMIT  
-I worked as the **Head of the IT Department** at the German-Mongolian Institute for Resources and Technology (GMIT), where I helped design and develop the university’s complete information infrastructure.
+Worked as the **Head of the IT Department** at the German-Mongolian Institute for Resources and Technology (GMIT), where I helped design and develop the university’s complete information infrastructure.
 
 ### 🏢 2017 Co-founded Gerege Systems LLC  
-I co-founded **Gerege Systems LLC** and contributed to the development of its core software products:
+Co-founded **Gerege Systems LLC** and contributed to the development of its core software products:
 
 - Gerege Kiosk framework  
 - Web-based dashboards for kiosk service monitoring  
