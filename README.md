@@ -19,9 +19,9 @@ I co-founded **Gerege Systems LLC** and contributed to the development of its co
 
 ---
 
-## 🦖 2020–Present — Creating the codesaur-php Open Source Ecosystem
+## 🦖 2020 Present => Creating the codesaur-php Open Source Ecosystem
 
-The **codesaur-php** ecosystem is my long-term passion project -> a clean, lightweight, modular set of PHP components designed for developers who value minimalism and clarity.
+The **codesaur-php** ecosystem is my passion project -> a clean, lightweight, modular set of PHP components designed for developers who value minimalism and clarity.
 
 ### 🧩 Core Components & Open Source Projects
 
@@ -53,7 +53,7 @@ Explore the ecosystem:
 - Code should be simple, understandable, and honest  
 - Minimalism beats complexity  
 - Open source is the best way to give back to the community  
-- Mongolian developers deserve world-class tools in their own language  
+- Mongolian developers deserve tools in their own language  
 
 ---
 
