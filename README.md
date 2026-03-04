@@ -32,8 +32,7 @@ The **codesaur-php** ecosystem is my passion project -> a clean, lightweight, mo
 - 🔗 **codesaur/http-client** Minimal cURL-based HTTP client with JSON helpers and a built-in MIME email sender  
 - 📬 **codesaur/http-message** PSR-7 / PSR-17 compatible HTTP message implementation with FIG utilities  
 - 💠 **codesaur/http-application** PSR-15 style HTTP application & middleware runner powered by codesaur/router and codesaur/http-message  
-- 🦖 **Raptor CMS Framework** Full modular CMS platform  
-  *Includes Locale, RBAC, File, Page, News modules, etc.*
+- 🦖 **codesaur/raptor** Raptor Framework -> Full modular platform *Includes Locale, RBAC, File, Page, News modules, etc.*
 
 ### 🧠 Built with a clear philosophy:
 
