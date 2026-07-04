@@ -7,6 +7,7 @@
 </p>
 
 <p align="center">
+  <a href="https://codesaur.net"><img src="https://img.shields.io/badge/codesaur.net-4A90D9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
   <a href="https://github.com/codesaur-php"><img src="https://img.shields.io/badge/codesaur--php-ecosystem-2b2b2b?style=for-the-badge&logo=github&logoColor=white" alt="codesaur-php ecosystem"></a>
   <a href="mailto:codesaur@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://github.com/codesaur"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
@@ -93,6 +94,9 @@ Built with a clear philosophy:
 
 ## Contact
 
+- **Website:** [codesaur.net](https://codesaur.net)
 - **Email:** codesaur@gmail.com
+- **Phone:** +976 99073907
 - **GitHub:** [@codesaur](https://github.com/codesaur)
+- **Packagist:** [packagist.org/packages/codesaur](https://packagist.org/packages/codesaur/)
 - **Ecosystem:** [github.com/codesaur-php](https://github.com/codesaur-php)
