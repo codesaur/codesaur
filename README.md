@@ -96,7 +96,7 @@ Built with a clear philosophy:
 
 - **Website:** [codesaur.net](https://codesaur.net)
 - **Email:** codesaur@gmail.com
-- **Phone:** +976 99073907
+- **Phone:** +976 99883763
 - **GitHub:** [@codesaur](https://github.com/codesaur)
 - **Packagist:** [packagist.org/packages/codesaur](https://packagist.org/packages/codesaur/)
 - **Ecosystem:** [github.com/codesaur-php](https://github.com/codesaur-php)
